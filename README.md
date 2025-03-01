@@ -8,7 +8,7 @@ This project analyzes the relationship between food consumption patterns and hou
 - **Predictive Modeling**: Linear regression, ridge regression, SVM, decision trees, and gradient boosting models to predict income based on food consumption.
 
 ## Project Structure
-- **Data**: Contains the input datasets (`year_osward_grocery.csv`, `modelled-household-income-estimates-wards.csv`, etc.).
+- **Data**: Contains the input datasets (`year_osward_grocery.csv`, `modelled-household-income-estimates-wards.csv`).
 - **Notebooks**: Jupyter notebooks for data analysis and visualization.
 - **Output**: Generated visualizations and model results (e.g., `maps.html`).
 
