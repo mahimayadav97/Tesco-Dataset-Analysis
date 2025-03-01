@@ -64,18 +64,22 @@ pip install pandas numpy geopandas matplotlib seaborn statsmodels scikit-learn b
 ## Example Visualizations
 ### Interactive Maps
 ![Interactive Map of Food Consumption](https://github.com/mahimayadav97/Tesco-Dataset-Analysis/blob/main/images/Interactive%20Bokeh%20Maps.png)
-*Interactive map showing the fraction of meat consumption across London wards.*
+
+*Interactive Bokeh map showing the fraction of meat consumption across London wards.*
 
 ### Correlation Plots
 ![Correlation Plot](https://github.com/mahimayadav97/Tesco-Dataset-Analysis/blob/main/images/Correlation%20Plot.png)
+
 *Correlation between food categories and mean income.*
 
 ### Nutrient Consumption vs. Age 0-17
 ![Nutriuent Consumption](https://github.com/mahimayadav97/Tesco-Dataset-Analysis/blob/main/images/Nutrient%20consumption%20in%20young%20people.png)
+
 *Scatter plot showing various Nutrient Consumption in young people.*
 
 ### Predicted vs. Actual Income
 ![Predicted vs. Actual Income](https://github.com/mahimayadav97/Tesco-Dataset-Analysis/blob/main/images/Predicted%20vs.%20Actual%20Income.png)
+
 *Scatter plot showing predicted vs. actual mean income.*
 
 ## Results
