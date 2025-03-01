@@ -1,5 +1,3 @@
-# Project Readme: Food Consumption and Income Analysis in London
-
 ## Overview
 This project analyzes the relationship between food consumption patterns and household income across different wards in London. The analysis is based on grocery purchase data and income estimates, combined with geographical data to visualize spatial trends. The project includes data preprocessing, visualization, statistical analysis, and predictive modeling.
 
